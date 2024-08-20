@@ -1,13 +1,10 @@
 # Hello, I'm Rachel! <br> Aspiring Cybersecurity Professional 🛡️⚔️
 
 
-I am an Information Assurance graduate with an interest in defensive and offensive security and a dedication to solving complex problems.
+I'm an Information Assurance graduate with a passion for both defensive and offensive security. Transitioning from a tennis instructor to a career in cybersecurity, I'm eager to leverage my analytical skills in various roles, including Security Operations, Threat Analysis, and Incident Response.
 
-## Objective
 
-My journey from a tennis instructor to a passionate security enthusiast has ignited my interest in the ever-changing world of cybersecurity. I am now eager to transition into the field, leveraging my analytical mindset and problem-solving skills to contribute to diverse cybersecurity roles, including but not limited to Security Operations, Threat Analysis, and Incident Response.
-
-## Projects
+## Skills
 
 ## Tools
 
@@ -17,5 +14,6 @@ My journey from a tennis instructor to a passionate security enthusiast has igni
 - [Google Cybersecurity Certification](https://www.credly.com/badges/7cc7cfc0-acc7-48bc-aa2a-54c47461a15f/public_url)
 - [The Definitive GRC Analyst Master Class Certification](#)
 
+## Projects
 
 
