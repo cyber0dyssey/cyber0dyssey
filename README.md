@@ -10,7 +10,7 @@ I am an Information Assurance graduate with an interest in defensive and offensi
 
 ## Objective
 
-My journey from a tennis instructor to a passionate security enthusiast has ignited my interest in the ever-changing world of cybersecurity. Now, I am eager to transition into the field, leveraging my analytical mindset and problem-solving skills to contribute to diverse cybersecurity roles, including but not limited to Security Operations, Threat Analysis, and Incident Response.
+My journey from a tennis instructor to a passionate security enthusiast has ignited my interest in the ever-changing world of cybersecurity. I am now eager to transition into the field, leveraging my analytical mindset and problem-solving skills to contribute to diverse cybersecurity roles, including but not limited to Security Operations, Threat Analysis, and Incident Response.
 
 
 ## Certifications
