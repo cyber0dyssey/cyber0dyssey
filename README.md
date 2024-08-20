@@ -1,11 +1,6 @@
 # Hello, I'm Rachel! <br> Aspiring Cybersecurity Professional 🛡️⚔️
 
 
-<a href="https://www.linkedin.com/in/rachelchattic/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-
-
 I am an Information Assurance graduate with an interest in defensive and offensive security and a dedication to solving complex problems.
 
 ## Objective
